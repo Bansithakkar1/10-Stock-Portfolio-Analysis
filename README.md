@@ -4,7 +4,7 @@ Constructed and managed a 10-stock equity portfolio benchmarked against the S&P 
 
 ## Overview
 
-This project was completed as part of **FINA 8663: Investment Analysis** at Northeastern University (Fall 2025). The team selected 10 large-cap U.S. equities, built a diversified portfolio with a value-oriented strategy, and evaluated performance over a 3-month holding period (September–November 2025).
+This project was completed as part of **FINA 6203: Investment Analysis** at Northeastern University (Fall 2025). The team selected 10 large-cap U.S. equities, built a diversified portfolio with a value-oriented strategy, and evaluated performance over a 3-month holding period (September–November 2025).
 
 ## Portfolio Holdings
 
